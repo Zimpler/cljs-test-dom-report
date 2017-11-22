@@ -3,6 +3,10 @@
 A cljs.test report that outputs in your browser. Good on its own but
 perfect in combination with figwheel.
 
+## Demo
+
+![Demo tests](https://raw.githubusercontent.com/Zimpler/cljs-test-dom-report/master/demo_tests.gif "Demo tests")
+
 ## Usage
 
 If you start with a test runner that looks like this:
