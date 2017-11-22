@@ -7,6 +7,8 @@ perfect in combination with figwheel.
 
 ![Demo tests](https://raw.githubusercontent.com/Zimpler/cljs-test-dom-report/master/demo_tests.gif "Demo tests")
 
+![Demo report compile error](https://raw.githubusercontent.com/Zimpler/cljs-test-dom-report/master/demo_report_compile_error.gif "Demo report compile error")
+
 ## Usage
 
 If you start with a test runner that looks like this:
