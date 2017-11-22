@@ -1,6 +1,7 @@
 # cljs-test-dom-report
 
-A Clojure library designed to ... well, that part is up to you.
+A cljs.test report that outputs in your browser. Good on its own but
+perfect in combination with figwheel.
 
 ## Usage
 
